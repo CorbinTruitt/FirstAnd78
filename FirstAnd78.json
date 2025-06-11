@@ -1,0 +1,1888 @@
+{
+  "name": "FirstAnd78",
+    "startingYear": 2025,
+    "startingMessage": "Hello!",
+    "adjustHsGradYears": false,
+    "bowlGames": [
+        {
+            "name": "Rose City Bowl",
+            "zipcode": "91103",
+            "tieIn": {
+                "first": "Great Plains Athletic Union",
+                "second": "Gulf-Atlantic Conference"
+            }
+        },
+        {
+            "name": "Bayou Jazz Bowl",
+            "zipcode": "70116",
+            "tieIn": {
+                "first": "Colonial Coast Conference",
+                "second": "High Plains League"
+            },
+            "indoors": true
+        },
+        {
+            "name": "Sunshine State Bow",
+            "zipcode": "33125",
+            "tieIn": {
+                "first": "Gulf-Atlantic Conference",
+                "second": [
+                    "Colonial Coast Conference",
+                    "Great Plains Athletic Union"
+                ]
+            }
+        },
+        {
+            "name": "Capitol Bowl",
+            "zipcode": "20004",
+            "tieIn": {
+                "first": "Liberty Athletic Association"
+            }
+        },
+        {
+            "name": "Lone Star Bowl",
+            "zipcode": "76011",
+            "indoors": true
+        },
+        {
+            "name": "Aloha Bowl",
+            "zipcode": "96813",
+            "tieIn": {
+                "first": "Colonial Coast Conference"
+            }
+        },
+        {
+            "name": "Metro Bowl",
+            "zipcode": "07073",
+            "tieIn": {
+                "first": "Colonial Coast Conference"
+            }
+        },
+        {
+            "name": "Peachtree Bowl",
+            "zipcode": "30313",
+            "tieIn": {
+                "first": "Pacific Rim Athletic League"
+            },
+            "indoors": true
+        },
+        {
+            "name": "Rustbelt Bowl",
+            "zipcode": "48201",
+            "tieIn": {
+                "first": "High Plains League"
+            },
+            "indoors": true
+        },
+        {
+            "name": "Riverwalk Bowl",
+            "zipcode": "78205",
+            "tieIn": {
+                "first": "Great Plains Athletic Union"
+            },
+            "indoors": true
+        },
+        {
+            "name": "Pioneer Bowl",
+            "zipcode": "63110",
+            "tieIn": {
+                "first": [
+                    "Colonial Coast Conference",
+                    "Liberty Athletic Association"
+                ],
+                "second": [
+                    "Great Plains Athletic Union",
+                    "Pacific Rim Athletic League",
+                    "High Plains League"
+                ]
+            },
+            "indoors": true
+        },
+        {
+            "name": "Cactus Bowl",
+            "zipcode": "85004"
+        },
+        {
+            "name": "Honky Tonk Bowl",
+            "zipcode": "37208"
+        },
+        {
+            "name": "Freedom Trail Bowl",
+            "zipcode": "02215",
+            "tieIn": {
+                "first": "Liberty Athletic Association"
+            }
+        },
+        {
+            "name": "Tinseltown Bowl",
+            "zipcode": "90012"
+        },
+        {
+            "name": "Jackpot Bowl",
+            "zipcode": "89101",
+            "indoors": true
+        },
+        {
+            "name": "Golden Gate Bowl",
+            "zipcode": "94117"
+        },
+        {
+            "name": "Mile High Bowl",
+            "zipcode": "80205"
+        },
+        {
+            "name": "Gasparilla Bowl",
+            "zipcode": "33607"
+        },
+        {
+            "name": "Emerald Bowl",
+            "zipcode": "98195"
+        }
+    ],
+  "conferences": [
+    {
+      "name": "Colonial Coast Conference",
+      "prestigeLevel": 6,
+      "zipcode": "28202",
+      "playCcgIndoors": true,
+      "divisions": [
+        {
+          "name": "Appalachian Crest",
+          "teams": [
+            {
+              "name": "Blue Ridge State",
+              "mascot": "",
+              "abbreviation": "BRS",
+              "zipcode": "29634",
+              "primaryColor": "#28A3A3",
+              "secondaryColor": "#E46767",
+              "archetype": "football-focused",
+              "fanbaseType": "ride-or-die",
+              "rivalAbbreviation": "CAR",
+              "attributes": {
+                "prestige": 9,
+                "facilities": 9,
+                "stadium": 8,
+                "collegeLife": 9,
+                "academics": 5,
+                "marketing": 9,
+                "attendance": 25000,
+                "fanbaseLevel": 9
+              }
+            },
+            {
+              "name": "Central Carolina",
+              "mascot": "",
+              "abbreviation": "CAR",
+              "zipcode": "27606",
+              "primaryColor": "#A3287A",
+              "secondaryColor": "#67E490",
+              "archetype": "balanced",
+              "fanbaseType": "reasonable",
+              "rivalAbbreviation": "BRS",
+              "attributes": {
+                "prestige": 5,
+                "facilities": 6,
+                "stadium": 6,
+                "collegeLife": 5,
+                "academics": 5,
+                "marketing": 5,
+                "attendance": 34000,
+                "fanbaseLevel": 6
+              }
+            },
+            {
+              "name": "Oakwood University",
+              "mascot": "",
+              "abbreviation": "OKU",
+              "zipcode": "27708",
+              "primaryColor": "#28A36A",
+              "secondaryColor": "#E467A1",
+              "archetype": "academic-powerhouse",
+              "fanbaseType": "volatile",
+              "rivalAbbreviation": "RKV",
+              "attributes": {
+                "prestige": 3,
+                "facilities": 5,
+                "stadium": 4,
+                "collegeLife": 8,
+                "academics": 10,
+                "marketing": 7,
+                "attendance": 16000,
+                "fanbaseLevel": 7
+              }
+            },
+            {
+              "name": "Roanoke Valley",
+              "mascot": "",
+              "abbreviation": "RKV",
+              "zipcode": "27514",
+              "primaryColor": "#2841A3",
+              "secondaryColor": "#E4CB67",
+              "archetype": "football-second",
+              "fanbaseType": "volatile",
+              "rivalAbbreviation": "OKU",
+              "attributes": {
+                "prestige": 8,
+                "facilities": 6,
+                "stadium": 5,
+                "collegeLife": 8,
+                "academics": 9,
+                "marketing": 8,
+                "attendance": 30000,
+                "fanbaseLevel": 7
+              }
+            }
+          ]
+        },
+        {
+          "name": "Eastern Shores",
+          "teams": [
+            {
+              "name": "Capital Gulf",
+              "mascot": "",
+              "abbreviation": "CGU",
+              "zipcode": "32306",
+              "primaryColor": "#28A359",
+              "secondaryColor": "#E467B2",
+              "archetype": "tradition-rich",
+              "fanbaseType": "reasonable",
+              "rivalAbbreviation": "BBY",
+              "attributes": {
+                "prestige": 8,
+                "facilities": 6,
+                "stadium": 8,
+                "collegeLife": 8,
+                "academics": 4,
+                "marketing": 7,
+                "attendance": 34000,
+                "fanbaseLevel": 8
+              }
+            },
+            {
+              "name": "Biscayne Bay University",
+              "mascot": "",
+              "abbreviation": "BBY",
+              "zipcode": "33146",
+              "primaryColor": "#30A328",
+              "secondaryColor": "#DB67E4",
+              "archetype": "football-agnostic",
+              "fanbaseType": "volatile",
+              "rivalAbbreviation": "CGU",
+              "attributes": {
+                "prestige": 8,
+                "facilities": 8,
+                "stadium": 4,
+                "collegeLife": 5,
+                "academics": 9,
+                "marketing": 6,
+                "attendance": 19000,
+                "fanbaseLevel": 4
+              }
+            },
+            {
+              "name": "Empire North",
+              "mascot": "",
+              "abbreviation": "EMN",
+              "zipcode": "13244",
+              "primaryColor": "#287AA3",
+              "secondaryColor": "#E49067",
+              "archetype": "academic-focused",
+              "fanbaseType": "reasonable",
+              "rivalAbbreviation": "PDR",
+              "attributes": {
+                "prestige": 3,
+                "facilities": 3,
+                "stadium": 5,
+                "collegeLife": 7,
+                "academics": 8,
+                "marketing": 3,
+                "attendance": 23000,
+                "fanbaseLevel": 5
+              }
+            },
+            {
+              "name": "Piedmont Reserve",
+              "mascot": "",
+              "abbreviation": "PDR",
+              "zipcode": "27109",
+              "primaryColor": "#A37228",
+              "secondaryColor": "#6799E4",
+              "archetype": "academic-focused",
+              "fanbaseType": "reasonable",
+              "rivalAbbreviation": "EMN",
+              "attributes": {
+                "prestige": 2,
+                "facilities": 2,
+                "stadium": 3,
+                "collegeLife": 7,
+                "academics": 8,
+                "marketing": 2,
+                "attendance": 23000,
+                "fanbaseLevel": 6
+              }
+            }
+          ]
+        },
+        {
+          "name": "Historic Coast",
+          "teams": [
+            {
+              "name": "Great Lakes Catholic",
+              "mascot": "",
+              "abbreviation": "GLC",
+              "zipcode": "46556",
+              "primaryColor": "#A38A28",
+              "secondaryColor": "#6780E4",
+              "archetype": "tradition-rich",
+              "fanbaseType": "ride-or-die",
+              "rivalAbbreviation": "BHU",
+              "attributes": {
+                "prestige": 9,
+                "facilities": 9,
+                "stadium": 8,
+                "collegeLife": 8,
+                "academics": 10,
+                "marketing": 9,
+                "attendance": 11000,
+                "fanbaseLevel": 9
+              }
+            },
+            {
+              "name": "Beacon Hill University",
+              "mascot": "",
+              "abbreviation": "BHU",
+              "zipcode": "2467",
+              "primaryColor": "#3928A3",
+              "secondaryColor": "#D3E467",
+              "archetype": "campus-treasure",
+              "fanbaseType": "reasonable",
+              "rivalAbbreviation": "GLC",
+              "attributes": {
+                "prestige": 4,
+                "facilities": 3,
+                "stadium": 4,
+                "collegeLife": 6,
+                "academics": 7,
+                "marketing": 3,
+                "attendance": 14000,
+                "fanbaseLevel": 3
+              }
+            },
+            {
+              "name": "Three Rivers State",
+              "mascot": "",
+              "abbreviation": "TRS",
+              "zipcode": "15213",
+              "primaryColor": "#28A372",
+              "secondaryColor": "#E46799",
+              "archetype": "balanced",
+              "fanbaseType": "reasonable",
+              "rivalAbbreviation": "CCA",
+              "attributes": {
+                "prestige": 6,
+                "facilities": 5,
+                "stadium": 7,
+                "collegeLife": 6,
+                "academics": 7,
+                "marketing": 6,
+                "attendance": 35000,
+                "fanbaseLevel": 5
+              }
+            },
+            {
+              "name": "Coastal Command Academy",
+              "mascot": "",
+              "abbreviation": "CCA",
+              "zipcode": "21401",
+              "primaryColor": "#2859A3",
+              "secondaryColor": "#E4B267",
+              "archetype": "media-mogul",
+              "fanbaseType": "stubborn",
+              "rivalAbbreviation": "TRS",
+              "attributes": {
+                "prestige": 4,
+                "facilities": 3,
+                "stadium": 3,
+                "collegeLife": 2,
+                "academics": 6,
+                "marketing": 8,
+                "attendance": 5000,
+                "fanbaseLevel": 9
+              }
+            }
+          ]
+        },
+        {
+          "name": "Valley Highlands",
+          "teams": [
+            {
+              "name": "Tidewater University",
+              "mascot": "",
+              "abbreviation": "TWU",
+              "zipcode": "22903",
+              "primaryColor": "#A3288A",
+              "secondaryColor": "#67E480",
+              "archetype": "academic-focused",
+              "fanbaseType": "reasonable",
+              "rivalAbbreviation": "AHG",
+              "attributes": {
+                "prestige": 3,
+                "facilities": 3,
+                "stadium": 6,
+                "collegeLife": 6,
+                "academics": 8,
+                "marketing": 3,
+                "attendance": 22000,
+                "fanbaseLevel": 5
+              }
+            },
+            {
+              "name": "Appalachian Highlands",
+              "mascot": "",
+              "abbreviation": "AHG",
+              "zipcode": "24060",
+              "primaryColor": "#2830A3",
+              "secondaryColor": "#E4DB67",
+              "archetype": "campus-treasure",
+              "fanbaseType": "stubborn",
+              "rivalAbbreviation": "TWU",
+              "attributes": {
+                "prestige": 7,
+                "facilities": 6,
+                "stadium": 7,
+                "collegeLife": 7,
+                "academics": 6,
+                "marketing": 7,
+                "attendance": 31000,
+                "fanbaseLevel": 8
+              }
+            },
+            {
+              "name": "Peachtree Institute",
+              "mascot": "",
+              "abbreviation": "PCH",
+              "zipcode": "30332",
+              "primaryColor": "#9228A3",
+              "secondaryColor": "#77E467",
+              "archetype": "academic-focused",
+              "fanbaseType": "volatile",
+              "rivalAbbreviation": "RCC",
+              "attributes": {
+                "prestige": 6,
+                "facilities": 3,
+                "stadium": 5,
+                "collegeLife": 5,
+                "academics": 8,
+                "marketing": 6,
+                "attendance": 27000,
+                "fanbaseLevel": 4
+              }
+            },
+            {
+              "name": "River City College",
+              "mascot": "",
+              "abbreviation": "RCC",
+              "zipcode": "40292",
+              "primaryColor": "#41A328",
+              "secondaryColor": "#CB67E4",
+              "archetype": "balanced",
+              "fanbaseType": "reasonable",
+              "rivalAbbreviation": "PCH",
+              "attributes": {
+                "prestige": 6,
+                "facilities": 6,
+                "stadium": 6,
+                "collegeLife": 7,
+                "academics": 4,
+                "marketing": 7,
+                "attendance": 24000,
+                "fanbaseLevel": 7
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Great Plains Athletic Union",
+      "prestigeLevel": 10,
+      "zipcode": "46201",
+      "playCcgIndoors": true,
+      "divisions": [
+        {
+          "name": "Cornbelt Division",
+          "teams": [
+            {
+              "name": "Lincoln Prairie University",
+              "mascot": "",
+              "abbreviation": "LPU",
+              "zipcode": "61801",
+              "primaryColor": "#8AA328",
+              "secondaryColor": "#8067E4",
+              "archetype": "football-agnostic",
+              "fanbaseType": "reasonable",
+              "rivalAbbreviation": "HWP",
+              "attributes": {
+                "prestige": 3,
+                "facilities": 2,
+                "stadium": 6,
+                "collegeLife": 4,
+                "academics": 7,
+                "marketing": 3,
+                "attendance": 31000,
+                "fanbaseLevel": 3
+              }
+            },
+            {
+              "name": "Lakefront University",
+              "mascot": "",
+              "abbreviation": "LFU",
+              "zipcode": "60208",
+              "primaryColor": "#A39B28",
+              "secondaryColor": "#676FE4",
+              "archetype": "academic-focused",
+              "fanbaseType": "volatile",
+              "rivalAbbreviation": "HWP",
+              "attributes": {
+                "prestige": 6,
+                "facilities": 4,
+                "stadium": 5,
+                "collegeLife": 5,
+                "academics": 9,
+                "marketing": 6,
+                "attendance": 21000,
+                "fanbaseLevel": 6
+              }
+            },
+            {
+              "name": "Hawkeye Plains",
+              "mascot": "",
+              "abbreviation": "HWP",
+              "zipcode": "52242",
+              "primaryColor": "#A36A28",
+              "secondaryColor": "#67A1E4",
+              "archetype": "tradition-rich",
+              "fanbaseType": "stubborn",
+              "rivalAbbreviation": "LFU",
+              "attributes": {
+                "prestige": 7,
+                "facilities": 7,
+                "stadium": 7,
+                "collegeLife": 4,
+                "academics": 4,
+                "marketing": 8,
+                "attendance": 30000,
+                "fanbaseLevel": 9
+              }
+            },
+            {
+              "name": "North Star State",
+              "mascot": "",
+              "abbreviation": "NSS",
+              "zipcode": "55455",
+              "primaryColor": "#A34928",
+              "secondaryColor": "#67C2E4",
+              "archetype": "balanced",
+              "fanbaseType": "reasonable",
+              "rivalAbbreviation": "PRC",
+              "attributes": {
+                "prestige": 5,
+                "facilities": 4,
+                "stadium": 5,
+                "collegeLife": 5,
+                "academics": 7,
+                "marketing": 4,
+                "attendance": 33000,
+                "fanbaseLevel": 6
+              }
+            },
+            {
+              "name": "Platte River College",
+              "mascot": "",
+              "abbreviation": "PRC",
+              "zipcode": "68588",
+              "primaryColor": "#A328A3",
+              "secondaryColor": "#67E467",
+              "archetype": "the-main-attraction",
+              "fanbaseType": "stubborn",
+              "rivalAbbreviation": "NSS",
+              "attributes": {
+                "prestige": 7,
+                "facilities": 9,
+                "stadium": 9,
+                "collegeLife": 6,
+                "academics": 4,
+                "marketing": 8,
+                "attendance": 28000,
+                "fanbaseLevel": 9
+              }
+            },
+            {
+              "name": "Wabash Valley",
+              "mascot": "",
+              "abbreviation": "WBV",
+              "zipcode": "47907",
+              "primaryColor": "#289BA3",
+              "secondaryColor": "#E46F67",
+              "archetype": "academic-focused",
+              "fanbaseType": "reasonable",
+              "rivalAbbreviation": "BDH",
+              "attributes": {
+                "prestige": 5,
+                "facilities": 4,
+                "stadium": 6,
+                "collegeLife": 5,
+                "academics": 7,
+                "marketing": 5,
+                "attendance": 36000,
+                "fanbaseLevel": 7
+              }
+            },
+            {
+              "name": "Badger Heights",
+              "mascot": "",
+              "abbreviation": "BDH",
+              "zipcode": "53706",
+              "primaryColor": "#A32839",
+              "secondaryColor": "#67E4D3",
+              "archetype": "tradition-rich",
+              "fanbaseType": "reasonable",
+              "rivalAbbreviation": "WBV",
+              "attributes": {
+                "prestige": 8,
+                "facilities": 8,
+                "stadium": 8,
+                "collegeLife": 7,
+                "academics": 9,
+                "marketing": 7,
+                "attendance": 38000,
+                "fanbaseLevel": 7
+              }
+            }
+          ]
+        },
+        {
+          "name": "Great Lakes Division",
+          "teams": [
+            {
+              "name": "Hoosier Valley University",
+              "mascot": "",
+              "abbreviation": "HVU",
+              "zipcode": "47401",
+              "primaryColor": "#8A28A3",
+              "secondaryColor": "#80E467",
+              "archetype": "balanced",
+              "fanbaseType": "reasonable",
+              "rivalAbbreviation": "CHP",
+              "attributes": {
+                "prestige": 4,
+                "facilities": 3,
+                "stadium": 5,
+                "collegeLife": 6,
+                "academics": 7,
+                "marketing": 3,
+                "attendance": 32000,
+                "fanbaseLevel": 5
+              }
+            },
+            {
+              "name": "Chesapeake State",
+              "mascot": "",
+              "abbreviation": "CHP",
+              "zipcode": "20740",
+              "primaryColor": "#7A28A3",
+              "secondaryColor": "#90E467",
+              "archetype": "balanced",
+              "fanbaseType": "reasonable",
+              "rivalAbbreviation": "GLT",
+              "attributes": {
+                "prestige": 5,
+                "facilities": 6,
+                "stadium": 5,
+                "collegeLife": 5,
+                "academics": 3,
+                "marketing": 6,
+                "attendance": 38000,
+                "fanbaseLevel": 6
+              }
+            },
+            {
+              "name": "Great Lakes Tech",
+              "mascot": "",
+              "abbreviation": "GLT",
+              "zipcode": "48103",
+              "primaryColor": "#28A330",
+              "secondaryColor": "#E467DB",
+              "archetype": "tradition-rich",
+              "fanbaseType": "ride-or-die",
+              "rivalAbbreviation": "CAP",
+              "attributes": {
+                "prestige": 9,
+                "facilities": 9,
+                "stadium": 10,
+                "collegeLife": 9,
+                "academics": 8,
+                "marketing": 9,
+                "attendance": 44000,
+                "fanbaseLevel": 9
+              }
+            },
+            {
+              "name": "Capital Central",
+              "mascot": "",
+              "abbreviation": "CAP",
+              "zipcode": "48823",
+              "primaryColor": "#28A37A",
+              "secondaryColor": "#E46790",
+              "archetype": "football-focused",
+              "fanbaseType": "stubborn",
+              "rivalAbbreviation": "GLT",
+              "attributes": {
+                "prestige": 8,
+                "facilities": 9,
+                "stadium": 8,
+                "collegeLife": 8,
+                "academics": 6,
+                "marketing": 9,
+                "attendance": 46000,
+                "fanbaseLevel": 9
+              }
+            },
+            {
+              "name": "Buckeye River University",
+              "mascot": "",
+              "abbreviation": "BRU",
+              "zipcode": "43210",
+              "primaryColor": "#A32892",
+              "secondaryColor": "#67E477",
+              "archetype": "football-focused",
+              "fanbaseType": "ride-or-die",
+              "rivalAbbreviation": "KYU",
+              "attributes": {
+                "prestige": 10,
+                "facilities": 10,
+                "stadium": 10,
+                "collegeLife": 8,
+                "academics": 7,
+                "marketing": 10,
+                "attendance": 48000,
+                "fanbaseLevel": 9
+              }
+            },
+            {
+              "name": "Keystone Union",
+              "mascot": "",
+              "abbreviation": "KYU",
+              "zipcode": "16801",
+              "primaryColor": "#A33928",
+              "secondaryColor": "#67D3E4",
+              "archetype": "the-main-attraction",
+              "fanbaseType": "stubborn",
+              "rivalAbbreviation": "BRU",
+              "attributes": {
+                "prestige": 8,
+                "facilities": 9,
+                "stadium": 10,
+                "collegeLife": 8,
+                "academics": 6,
+                "marketing": 9,
+                "attendance": 44000,
+                "fanbaseLevel": 9
+              }
+            },
+            {
+              "name": "Garden State College",
+              "mascot": "",
+              "abbreviation": "GSC",
+              "zipcode": "8854",
+              "primaryColor": "#A34128",
+              "secondaryColor": "#67CBE4",
+              "archetype": "football-agnostic",
+              "fanbaseType": "reasonable",
+              "rivalAbbreviation": "BRU",
+              "attributes": {
+                "prestige": 3,
+                "facilities": 2,
+                "stadium": 5,
+                "collegeLife": 5,
+                "academics": 5,
+                "marketing": 3,
+                "attendance": 34000,
+                "fanbaseLevel": 4
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Gulf-Atlantic Conference",
+      "prestigeLevel": 7,
+      "zipcode": "45221",
+      "playCcgIndoors": true,
+      "divisions": [
+        {
+          "name": "Appalachian Division",
+          "teams": [
+            {
+              "name": "Gulf Coast University",
+              "mascot": "",
+              "abbreviation": "GC",
+              "zipcode": "32611",
+              "primaryColor": "#4928A3",
+              "secondaryColor": "#C2E467",
+              "archetype": "tradition-rich",
+              "fanbaseType": "ride-or-die",
+              "rivalAbbreviation": "EP",
+              "attributes": {
+                "prestige": 9,
+                "facilities": 6,
+                "stadium": 9,
+                "collegeLife": 7,
+                "academics": 8,
+                "marketing": 8,
+                "attendance": 52000,
+                "fanbaseLevel": 8
+              }
+            },
+            {
+              "name": "Eastern Piedmont",
+              "mascot": "",
+              "abbreviation": "EP",
+              "zipcode": "30601",
+              "primaryColor": "#8228A3",
+              "secondaryColor": "#88E467",
+              "archetype": "football-focused",
+              "fanbaseType": "reasonable",
+              "rivalAbbreviation": "GC",
+              "attributes": {
+                "prestige": 9,
+                "facilities": 8,
+                "stadium": 9,
+                "collegeLife": 8,
+                "academics": 7,
+                "marketing": 5,
+                "attendance": 39000,
+                "fanbaseLevel": 8
+              }
+            },
+            {
+              "name": "Bluegrass State",
+              "mascot": "",
+              "abbreviation": "BGS",
+              "zipcode": "40502",
+              "primaryColor": "#2839A3",
+              "secondaryColor": "#E4D367",
+              "archetype": "campus-treasure",
+              "fanbaseType": "reasonable",
+              "rivalAbbreviation": "OZK",
+              "attributes": {
+                "prestige": 5,
+                "facilities": 7,
+                "stadium": 7,
+                "collegeLife": 6,
+                "academics": 4,
+                "marketing": 7,
+                "attendance": 30000,
+                "fanbaseLevel": 4
+              }
+            },
+            {
+              "name": "Ozark Valley",
+              "mascot": "",
+              "abbreviation": "OZK",
+              "zipcode": "65201",
+              "primaryColor": "#A32849",
+              "secondaryColor": "#67E4C2",
+              "archetype": "balanced",
+              "fanbaseType": "reasonable",
+              "rivalAbbreviation": "BGS",
+              "attributes": {
+                "prestige": 6,
+                "facilities": 6,
+                "stadium": 7,
+                "collegeLife": 4,
+                "academics": 4,
+                "marketing": 4,
+                "attendance": 30000,
+                "fanbaseLevel": 6
+              }
+            },
+            {
+              "name": "Palmetto Tech",
+              "mascot": "",
+              "abbreviation": "PMT",
+              "zipcode": "29201",
+              "primaryColor": "#2851A3",
+              "secondaryColor": "#E4BA67",
+              "archetype": "balanced",
+              "fanbaseType": "reasonable",
+              "rivalAbbreviation": "SMU",
+              "attributes": {
+                "prestige": 6,
+                "facilities": 7,
+                "stadium": 8,
+                "collegeLife": 6,
+                "academics": 5,
+                "marketing": 5,
+                "attendance": 35000,
+                "fanbaseLevel": 7
+              }
+            },
+            {
+              "name": "Smoky Mountain University",
+              "mascot": "",
+              "abbreviation": "SMU",
+              "zipcode": "37901",
+              "primaryColor": "#5128A3",
+              "secondaryColor": "#BAE467",
+              "archetype": "tradition-rich",
+              "fanbaseType": "ride-or-die",
+              "rivalAbbreviation": "PMT",
+              "attributes": {
+                "prestige": 7,
+                "facilities": 8,
+                "stadium": 9,
+                "collegeLife": 7,
+                "academics": 5,
+                "marketing": 7,
+                "attendance": 30000,
+                "fanbaseLevel": 8
+              }
+            },
+            {
+              "name": "Central Cumberland",
+              "mascot": "",
+              "abbreviation": "CCU",
+              "zipcode": "37201",
+              "primaryColor": "#4128A3",
+              "secondaryColor": "#CBE467",
+              "archetype": "academic-focused",
+              "fanbaseType": "volatile",
+              "rivalAbbreviation": "SMU",
+              "attributes": {
+                "prestige": 3,
+                "facilities": 4,
+                "stadium": 3,
+                "collegeLife": 8,
+                "academics": 9,
+                "marketing": 4,
+                "attendance": 14000,
+                "fanbaseLevel": 5
+              }
+            }
+          ]
+        },
+        {
+          "name": "Heartland South",
+          "teams": [
+            {
+              "name": "Heart of Dixie University",
+              "mascot": "",
+              "abbreviation": "HDU",
+              "zipcode": "35401",
+              "primaryColor": "#2849A3",
+              "secondaryColor": "#E4C267",
+              "archetype": "tradition-rich",
+              "fanbaseType": "reasonable",
+              "rivalAbbreviation": "OUA",
+              "attributes": {
+                "prestige": 10,
+                "facilities": 10,
+                "stadium": 9,
+                "collegeLife": 9,
+                "academics": 4,
+                "marketing": 9,
+                "attendance": 38000,
+                "fanbaseLevel": 9
+              }
+            },
+            {
+              "name": "Ouachita State",
+              "mascot": "",
+              "abbreviation": "OUA",
+              "zipcode": "72701",
+              "primaryColor": "#28A39B",
+              "secondaryColor": "#E4676F",
+              "archetype": "football-focused",
+              "fanbaseType": "stubborn",
+              "rivalAbbreviation": "TPC",
+              "attributes": {
+                "prestige": 5,
+                "facilities": 8,
+                "stadium": 8,
+                "collegeLife": 6,
+                "academics": 3,
+                "marketing": 5,
+                "attendance": 38000,
+                "fanbaseLevel": 7
+              }
+            },
+            {
+              "name": "Tallapoosa College",
+              "mascot": "",
+              "abbreviation": "TPC",
+              "zipcode": "36830",
+              "primaryColor": "#9BA328",
+              "secondaryColor": "#6F67E4",
+              "archetype": "tradition-rich",
+              "fanbaseType": "ride-or-die",
+              "rivalAbbreviation": "OUA",
+              "attributes": {
+                "prestige": 8,
+                "facilities": 8,
+                "stadium": 9,
+                "collegeLife": 8,
+                "academics": 6,
+                "marketing": 7,
+                "attendance": 30000,
+                "fanbaseLevel": 9
+              }
+            },
+            {
+              "name": "Bayou State",
+              "mascot": "",
+              "abbreviation": "BSU",
+              "zipcode": "70801",
+              "primaryColor": "#A32882",
+              "secondaryColor": "#67E488",
+              "archetype": "football-focused",
+              "fanbaseType": "ride-or-die",
+              "rivalAbbreviation": "MSO",
+              "attributes": {
+                "prestige": 9,
+                "facilities": 8,
+                "stadium": 10,
+                "collegeLife": 8,
+                "academics": 4,
+                "marketing": 8,
+                "attendance": 32000,
+                "fanbaseLevel": 9
+              }
+            },
+            {
+              "name": "Magnolia Southern",
+              "mascot": "",
+              "abbreviation": "MSO",
+              "zipcode": "38655",
+              "primaryColor": "#288AA3",
+              "secondaryColor": "#E48067",
+              "archetype": "campus-treasure",
+              "fanbaseType": "volatile",
+              "rivalAbbreviation": "BSU",
+              "attributes": {
+                "prestige": 6,
+                "facilities": 7,
+                "stadium": 6,
+                "collegeLife": 7,
+                "academics": 3,
+                "marketing": 5,
+                "attendance": 21000,
+                "fanbaseLevel": 8
+              }
+            },
+            {
+              "name": "Tombigbee Tech",
+              "mascot": "",
+              "abbreviation": "TBT",
+              "zipcode": "39759",
+              "primaryColor": "#2872A3",
+              "secondaryColor": "#E49967",
+              "archetype": "balanced",
+              "fanbaseType": "reasonable",
+              "rivalAbbreviation": "BVA",
+              "attributes": {
+                "prestige": 4,
+                "facilities": 6,
+                "stadium": 7,
+                "collegeLife": 6,
+                "academics": 2,
+                "marketing": 4,
+                "attendance": 23000,
+                "fanbaseLevel": 7
+              }
+            },
+            {
+              "name": "Brazos Valley University",
+              "mascot": "",
+              "abbreviation": "BVA",
+              "zipcode": "77840",
+              "primaryColor": "#28A328",
+              "secondaryColor": "#E467E4",
+              "archetype": "football-focused",
+              "fanbaseType": "stubborn",
+              "rivalAbbreviation": "TBT",
+              "attributes": {
+                "prestige": 8,
+                "facilities": 10,
+                "stadium": 9,
+                "collegeLife": 8,
+                "academics": 7,
+                "marketing": 7,
+                "attendance": 68000,
+                "fanbaseLevel": 9
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "High Plains League",
+      "prestigeLevel": 9,
+      "zipcode": "75050",
+      "playCcgIndoors": true,
+      "divisions": [
+        {
+          "name": "High Plains",
+          "teams": [
+            {
+              "name": "Brazos Ridge",
+              "mascot": "",
+              "abbreviation": "BRG",
+              "zipcode": "76706",
+              "primaryColor": "#6A28A3",
+              "secondaryColor": "#A1E467",
+              "archetype": "campus-treasure",
+              "fanbaseType": "stubborn",
+              "rivalAbbreviation": "NCP",
+              "attributes": {
+                "prestige": 7,
+                "facilities": 8,
+                "stadium": 5,
+                "collegeLife": 8,
+                "academics": 7,
+                "marketing": 6,
+                "attendance": 16000,
+                "fanbaseLevel": 8
+              }
+            },
+            {
+              "name": "North Central Plains University",
+              "mascot": "",
+              "abbreviation": "NCP",
+              "zipcode": "50011",
+              "primaryColor": "#A32830",
+              "secondaryColor": "#67E4DB",
+              "archetype": "balanced",
+              "fanbaseType": "stubborn",
+              "rivalAbbreviation": "BRG",
+              "attributes": {
+                "prestige": 4,
+                "facilities": 4,
+                "stadium": 6,
+                "collegeLife": 3,
+                "academics": 6,
+                "marketing": 3,
+                "attendance": 26000,
+                "fanbaseLevel": 8
+              }
+            },
+            {
+              "name": "Prairie Horizon State",
+              "mascot": "",
+              "abbreviation": "PHS",
+              "zipcode": "66045",
+              "primaryColor": "#6128A3",
+              "secondaryColor": "#A9E467",
+              "archetype": "football-second",
+              "fanbaseType": "volatile",
+              "rivalAbbreviation": "CTC",
+              "attributes": {
+                "prestige": 2,
+                "facilities": 3,
+                "stadium": 5,
+                "collegeLife": 3,
+                "academics": 6,
+                "marketing": 8,
+                "attendance": 19000,
+                "fanbaseLevel": 3
+              }
+            },
+            {
+              "name": "Chisholm Trail College",
+              "mascot": "",
+              "abbreviation": "CTC",
+              "zipcode": "67218",
+              "primaryColor": "#2861A3",
+              "secondaryColor": "#E4A967",
+              "archetype": "football-focused",
+              "fanbaseType": "reasonable",
+              "rivalAbbreviation": "PHS",
+              "attributes": {
+                "prestige": 5,
+                "facilities": 6,
+                "stadium": 5,
+                "collegeLife": 4,
+                "academics": 3,
+                "marketing": 5,
+                "attendance": 16000,
+                "fanbaseLevel": 6
+              }
+            },
+            {
+              "name": "Red River University",
+              "mascot": "",
+              "abbreviation": "RRU",
+              "zipcode": "73019",
+              "primaryColor": "#28A382",
+              "secondaryColor": "#E46788",
+              "archetype": "tradition-rich",
+              "fanbaseType": "ride-or-die",
+              "rivalAbbreviation": "CMS",
+              "attributes": {
+                "prestige": 9,
+                "facilities": 9,
+                "stadium": 9,
+                "collegeLife": 7,
+                "academics": 5,
+                "marketing": 9,
+                "attendance": 23000,
+                "fanbaseLevel": 9
+              }
+            },
+            {
+              "name": "Cimarron State",
+              "mascot": "",
+              "abbreviation": "CMS",
+              "zipcode": "74075",
+              "primaryColor": "#7228A3",
+              "secondaryColor": "#99E467",
+              "archetype": "football-focused",
+              "fanbaseType": "reasonable",
+              "rivalAbbreviation": "RRU",
+              "attributes": {
+                "prestige": 8,
+                "facilities": 8,
+                "stadium": 6,
+                "collegeLife": 4,
+                "academics": 3,
+                "marketing": 6,
+                "attendance": 21000,
+                "fanbaseLevel": 8
+              }
+            },
+            {
+              "name": "Trinity Metro",
+              "mascot": "",
+              "abbreviation": "TMU",
+              "zipcode": "76129",
+              "primaryColor": "#A32841",
+              "secondaryColor": "#67E4CB",
+              "archetype": "campus-treasure",
+              "fanbaseType": "reasonable",
+              "rivalAbbreviation": "RTC",
+              "attributes": {
+                "prestige": 6,
+                "facilities": 7,
+                "stadium": 5,
+                "collegeLife": 6,
+                "academics": 7,
+                "marketing": 4,
+                "attendance": 12000,
+                "fanbaseLevel": 7
+              }
+            },
+            {
+              "name": "Republic Tech",
+              "mascot": "",
+              "abbreviation": "RTC",
+              "zipcode": "78712",
+              "primaryColor": "#A3289B",
+              "secondaryColor": "#67E46F",
+              "archetype": "tradition-rich",
+              "fanbaseType": "ride-or-die",
+              "rivalAbbreviation": "TMU",
+              "attributes": {
+                "prestige": 9,
+                "facilities": 9,
+                "stadium": 10,
+                "collegeLife": 7,
+                "academics": 8,
+                "marketing": 10,
+                "attendance": 40000,
+                "fanbaseLevel": 9
+              }
+            },
+            {
+              "name": "Llano Estacado",
+              "mascot": "",
+              "abbreviation": "LEC",
+              "zipcode": "79409",
+              "primaryColor": "#39A328",
+              "secondaryColor": "#D367E4",
+              "archetype": "football-focused",
+              "fanbaseType": "stubborn",
+              "rivalAbbreviation": "AHU",
+              "attributes": {
+                "prestige": 5,
+                "facilities": 5,
+                "stadium": 6,
+                "collegeLife": 6,
+                "academics": 3,
+                "marketing": 5,
+                "attendance": 33000,
+                "fanbaseLevel": 8
+              }
+            },
+            {
+              "name": "Allegheny Highlands University",
+              "mascot": "",
+              "abbreviation": "AHU",
+              "zipcode": "26505",
+              "primaryColor": "#A32872",
+              "secondaryColor": "#67E499",
+              "archetype": "football-focused",
+              "fanbaseType": "stubborn",
+              "rivalAbbreviation": "LEC",
+              "attributes": {
+                "prestige": 7,
+                "facilities": 7,
+                "stadium": 6,
+                "collegeLife": 8,
+                "academics": 3,
+                "marketing": 7,
+                "attendance": 20000,
+                "fanbaseLevel": 8
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Liberty Athletic Association",
+      "prestigeLevel": 8,
+      "zipcode": "45221",
+      "divisions": [
+        {
+          "name": "Liberty Athletic",
+          "teams": [
+            {
+              "name": "Suncoast Tech",
+              "mascot": "",
+              "abbreviation": "SCT",
+              "zipcode": "32816",
+              "primaryColor": "#A39228",
+              "secondaryColor": "#6777E4",
+              "archetype": "future-forward",
+              "fanbaseType": "reasonable",
+              "rivalAbbreviation": "GVS",
+              "attributes": {
+                "prestige": 6,
+                "facilities": 7,
+                "stadium": 5,
+                "collegeLife": 4,
+                "academics": 6,
+                "marketing": 8,
+                "attendance": 40000,
+                "fanbaseLevel": 7
+              }
+            },
+            {
+              "name": "Gulfview State",
+              "mascot": "",
+              "abbreviation": "GVS",
+              "zipcode": "33620",
+              "primaryColor": "#A37A28",
+              "secondaryColor": "#6790E4",
+              "archetype": "balanced",
+              "fanbaseType": "volatile",
+              "rivalAbbreviation": "SCT",
+              "attributes": {
+                "prestige": 4,
+                "facilities": 4,
+                "stadium": 5,
+                "collegeLife": 3,
+                "academics": 6,
+                "marketing": 4,
+                "attendance": 35000,
+                "fanbaseLevel": 4
+              }
+            },
+            {
+              "name": "Queen City University",
+              "mascot": "",
+              "abbreviation": "QCU",
+              "zipcode": "45221",
+              "primaryColor": "#A33028",
+              "secondaryColor": "#67DBE4",
+              "archetype": "football-focused",
+              "fanbaseType": "reasonable",
+              "rivalAbbreviation": "BCC",
+              "attributes": {
+                "prestige": 7,
+                "facilities": 7,
+                "stadium": 4,
+                "collegeLife": 7,
+                "academics": 5,
+                "marketing": 7,
+                "attendance": 32000,
+                "fanbaseLevel": 6
+              }
+            },
+            {
+              "name": "Bluff City College",
+              "mascot": "",
+              "abbreviation": "BCC",
+              "zipcode": "38152",
+              "primaryColor": "#A32851",
+              "secondaryColor": "#67E4BA",
+              "archetype": "balanced",
+              "fanbaseType": "stubborn",
+              "rivalAbbreviation": "QCU",
+              "attributes": {
+                "prestige": 5,
+                "facilities": 6,
+                "stadium": 6,
+                "collegeLife": 5,
+                "academics": 2,
+                "marketing": 6,
+                "attendance": 18000,
+                "fanbaseLevel": 7
+              }
+            },
+            {
+              "name": "Bayou Metro",
+              "mascot": "",
+              "abbreviation": "BYM",
+              "zipcode": "77004",
+              "primaryColor": "#61A328",
+              "secondaryColor": "#A967E4",
+              "archetype": "balanced",
+              "fanbaseType": "reasonable",
+              "rivalAbbreviation": "TNH",
+              "attributes": {
+                "prestige": 6,
+                "facilities": 7,
+                "stadium": 4,
+                "collegeLife": 6,
+                "academics": 3,
+                "marketing": 6,
+                "attendance": 37000,
+                "fanbaseLevel": 6
+              }
+            },
+            {
+              "name": "Trinity Hill",
+              "mascot": "",
+              "abbreviation": "TNH",
+              "zipcode": "75205",
+              "primaryColor": "#59A328",
+              "secondaryColor": "#B267E4",
+              "archetype": "academic-focused",
+              "fanbaseType": "reasonable",
+              "rivalAbbreviation": "BYM",
+              "attributes": {
+                "prestige": 3,
+                "facilities": 4,
+                "stadium": 3,
+                "collegeLife": 3,
+                "academics": 7,
+                "marketing": 4,
+                "attendance": 14000,
+                "fanbaseLevel": 6
+              }
+            },
+            {
+              "name": "Albemarle University",
+              "mascot": "",
+              "abbreviation": "ABU",
+              "zipcode": "27858",
+              "primaryColor": "#82A328",
+              "secondaryColor": "#8867E4",
+              "archetype": "balanced",
+              "fanbaseType": "reasonable",
+              "rivalAbbreviation": "LBC",
+              "attributes": {
+                "prestige": 3,
+                "facilities": 5,
+                "stadium": 5,
+                "collegeLife": 6,
+                "academics": 3,
+                "marketing": 2,
+                "attendance": 26000,
+                "fanbaseLevel": 7
+              }
+            },
+            {
+              "name": "Liberty Bell College",
+              "mascot": "",
+              "abbreviation": "LBC",
+              "zipcode": "19122",
+              "primaryColor": "#A3286A",
+              "secondaryColor": "#67E4A1",
+              "archetype": "campus-treasure",
+              "fanbaseType": "reasonable",
+              "rivalAbbreviation": "ABU",
+              "attributes": {
+                "prestige": 3,
+                "facilities": 3,
+                "stadium": 5,
+                "collegeLife": 6,
+                "academics": 6,
+                "marketing": 2,
+                "attendance": 26000,
+                "fanbaseLevel": 6
+              }
+            },
+            {
+              "name": "Crescent City University",
+              "mascot": "",
+              "abbreviation": "CCY",
+              "zipcode": "70118",
+              "primaryColor": "#28A361",
+              "secondaryColor": "#E467A9",
+              "archetype": "academic-focused",
+              "fanbaseType": "volatile",
+              "rivalAbbreviation": "GCS",
+              "attributes": {
+                "prestige": 2,
+                "facilities": 2,
+                "stadium": 3,
+                "collegeLife": 5,
+                "academics": 8,
+                "marketing": 1,
+                "attendance": 16000,
+                "fanbaseLevel": 4
+              }
+            },
+            {
+              "name": "Green Country State",
+              "mascot": "",
+              "abbreviation": "GCS",
+              "zipcode": "74104",
+              "primaryColor": "#28A392",
+              "secondaryColor": "#E46777",
+              "archetype": "balanced",
+              "fanbaseType": "stubborn",
+              "rivalAbbreviation": "CCY",
+              "attributes": {
+                "prestige": 2,
+                "facilities": 2,
+                "stadium": 3,
+                "collegeLife": 2,
+                "academics": 5,
+                "marketing": 1,
+                "attendance": 4000,
+                "fanbaseLevel": 7
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Pacific Rim Athletic League",
+      "prestigeLevel": 5,
+      "zipcode": "28202",
+      "divisions": [
+        {
+          "name": "Coastal Mountains",
+          "teams": [
+            {
+              "name": "Cascadia State",
+              "mascot": "",
+              "abbreviation": "CSC",
+              "zipcode": "97403",
+              "primaryColor": "#A38228",
+              "secondaryColor": "#6788E4",
+              "archetype": "future-forward",
+              "fanbaseType": "reasonable",
+              "rivalAbbreviation": "STV",
+              "attributes": {
+                "prestige": 8,
+                "facilities": 10,
+                "stadium": 6,
+                "collegeLife": 7,
+                "academics": 6,
+                "marketing": 9,
+                "attendance": 20000,
+                "fanbaseLevel": 8
+              }
+            },
+            {
+              "name": "Santiam Valley",
+              "mascot": "",
+              "abbreviation": "STV",
+              "zipcode": "97331",
+              "primaryColor": "#6AA328",
+              "secondaryColor": "#A167E4",
+              "archetype": "balanced",
+              "fanbaseType": "reasonable",
+              "rivalAbbreviation": "CSC",
+              "attributes": {
+                "prestige": 3,
+                "facilities": 3,
+                "stadium": 3,
+                "collegeLife": 4,
+                "academics": 5,
+                "marketing": 2,
+                "attendance": 28000,
+                "fanbaseLevel": 6
+              }
+            },
+            {
+              "name": "Puget Sound University",
+              "mascot": "",
+              "abbreviation": "PSU",
+              "zipcode": "98195",
+              "primaryColor": "#28A351",
+              "secondaryColor": "#E467BA",
+              "archetype": "academic-focused",
+              "fanbaseType": "reasonable",
+              "rivalAbbreviation": "PPC",
+              "attributes": {
+                "prestige": 7,
+                "facilities": 8,
+                "stadium": 7,
+                "collegeLife": 6,
+                "academics": 8,
+                "marketing": 6,
+                "attendance": 36000,
+                "fanbaseLevel": 7
+              }
+            },
+            {
+              "name": "Palouse Prairie College",
+              "mascot": "",
+              "abbreviation": "PPC",
+              "zipcode": "99163",
+              "primaryColor": "#7AA328",
+              "secondaryColor": "#9067E4",
+              "archetype": "party-school",
+              "fanbaseType": "stubborn",
+              "rivalAbbreviation": "PSU",
+              "attributes": {
+                "prestige": 4,
+                "facilities": 3,
+                "stadium": 3,
+                "collegeLife": 2,
+                "academics": 2,
+                "marketing": 4,
+                "attendance": 25000,
+                "fanbaseLevel": 8
+              }
+            },
+            {
+              "name": "Golden Coast University",
+              "mascot": "",
+              "abbreviation": "GCU",
+              "zipcode": "94720",
+              "primaryColor": "#2882A3",
+              "secondaryColor": "#E48867",
+              "archetype": "academic-focused",
+              "fanbaseType": "volatile",
+              "rivalAbbreviation": "SVT",
+              "attributes": {
+                "prestige": 5,
+                "facilities": 6,
+                "stadium": 6,
+                "collegeLife": 5,
+                "academics": 9,
+                "marketing": 8,
+                "attendance": 32000,
+                "fanbaseLevel": 4
+              }
+            },
+            {
+              "name": "Silicon Valley Tech",
+              "mascot": "",
+              "abbreviation": "SVT",
+              "zipcode": "94305",
+              "primaryColor": "#2828A3",
+              "secondaryColor": "#E4E467",
+              "archetype": "academic-powerhouse",
+              "fanbaseType": "volatile",
+              "rivalAbbreviation": "GCU",
+              "attributes": {
+                "prestige": 7,
+                "facilities": 7,
+                "stadium": 5,
+                "collegeLife": 8,
+                "academics": 10,
+                "marketing": 8,
+                "attendance": 9000,
+                "fanbaseLevel": 6
+              }
+            },
+            {
+              "name": "Front Range University",
+              "mascot": "",
+              "abbreviation": "FRU",
+              "zipcode": "80305",
+              "primaryColor": "#92A328",
+              "secondaryColor": "#7767E4",
+              "archetype": "campus-treasure",
+              "fanbaseType": "reasonable",
+              "rivalAbbreviation": "SVT",
+              "attributes": {
+                "prestige": 3,
+                "facilities": 3,
+                "stadium": 5,
+                "collegeLife": 6,
+                "academics": 6,
+                "marketing": 3,
+                "attendance": 30000,
+                "fanbaseLevel": 6
+              }
+            }
+          ]
+        },
+        {
+          "name": "Desert Crest",
+          "teams": [
+            {
+              "name": "Sonoran Desert State",
+              "mascot": "",
+              "abbreviation": "SDS",
+              "zipcode": "85719",
+              "primaryColor": "#A35928",
+              "secondaryColor": "#67B2E4",
+              "archetype": "balanced",
+              "fanbaseType": "reasonable",
+              "rivalAbbreviation": "SRU",
+              "attributes": {
+                "prestige": 6,
+                "facilities": 5,
+                "stadium": 6,
+                "collegeLife": 5,
+                "academics": 7,
+                "marketing": 7,
+                "attendance": 37000,
+                "fanbaseLevel": 5
+              }
+            },
+            {
+              "name": "Salt River University",
+              "mascot": "",
+              "abbreviation": "SRU",
+              "zipcode": "85287",
+              "primaryColor": "#286AA3",
+              "secondaryColor": "#E4A167",
+              "archetype": "party-school",
+              "fanbaseType": "volatile",
+              "rivalAbbreviation": "ZCC",
+              "attributes": {
+                "prestige": 6,
+                "facilities": 6,
+                "stadium": 6,
+                "collegeLife": 8,
+                "academics": 5,
+                "marketing": 6,
+                "attendance": 45000,
+                "fanbaseLevel": 5
+              }
+            },
+            {
+              "name": "Zion Canyon College",
+              "mascot": "",
+              "abbreviation": "ZCC",
+              "zipcode": "84112",
+              "primaryColor": "#3028A3",
+              "secondaryColor": "#DBE467",
+              "archetype": "balanced",
+              "fanbaseType": "stubborn",
+              "rivalAbbreviation": "SRU",
+              "attributes": {
+                "prestige": 7,
+                "facilities": 7,
+                "stadium": 5,
+                "collegeLife": 4,
+                "academics": 6,
+                "marketing": 7,
+                "attendance": 26000,
+                "fanbaseLevel": 8
+              }
+            },
+            {
+              "name": "Angeles Metro",
+              "mascot": "",
+              "abbreviation": "AMU",
+              "zipcode": "90095",
+              "primaryColor": "#28A341",
+              "secondaryColor": "#E467CB",
+              "archetype": "football-agnostic",
+              "fanbaseType": "volatile",
+              "rivalAbbreviation": "PHC",
+              "attributes": {
+                "prestige": 7,
+                "facilities": 7,
+                "stadium": 9,
+                "collegeLife": 8,
+                "academics": 9,
+                "marketing": 8,
+                "attendance": 33000,
+                "fanbaseLevel": 3
+              }
+            },
+            {
+              "name": "Pacific Heritage",
+              "mascot": "",
+              "abbreviation": "PHC",
+              "zipcode": "90089",
+              "primaryColor": "#A35128",
+              "secondaryColor": "#67BAE4",
+              "archetype": "tradition-rich",
+              "fanbaseType": "volatile",
+              "rivalAbbreviation": "AMU",
+              "attributes": {
+                "prestige": 9,
+                "facilities": 9,
+                "stadium": 8,
+                "collegeLife": 9,
+                "academics": 9,
+                "marketing": 9,
+                "attendance": 32000,
+                "fanbaseLevel": 7
+              }
+            },
+            {
+              "name": "Oceania University",
+              "mascot": "",
+              "abbreviation": "OCU",
+              "zipcode": "96822",
+              "primaryColor": "#A36128",
+              "secondaryColor": "#67A9E4",
+              "archetype": "campus-treasure",
+              "fanbaseType": "stubborn",
+              "rivalAbbreviation": "SST",
+              "attributes": {
+                "prestige": 3,
+                "facilities": 4,
+                "stadium": 3,
+                "collegeLife": 8,
+                "academics": 3,
+                "marketing": 4,
+                "attendance": 15000,
+                "fanbaseLevel": 7
+              }
+            },
+            {
+              "name": "South Seas Tech",
+              "mascot": "",
+              "abbreviation": "SST",
+              "zipcode": "96799",
+              "primaryColor": "#28A339",
+              "secondaryColor": "#E467D3",
+              "archetype": "party-school",
+              "fanbaseType": "stubborn",
+              "rivalAbbreviation": "OCU",
+              "attributes": {
+                "prestige": 1,
+                "facilities": 1,
+                "stadium": 1,
+                "collegeLife": 1,
+                "academics": 1,
+                "marketing": 1,
+                "attendance": 5000,
+                "fanbaseLevel": 10
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
