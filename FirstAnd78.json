@@ -151,7 +151,7 @@
           "teams": [
             {
               "name": "Blue Ridge State",
-              "mascot": "",
+              "mascot": "Brawlers",
               "abbreviation": "BRS",
               "zipcode": "29634",
               "primaryColor": "#28A3A3",
@@ -172,7 +172,7 @@
             },
             {
               "name": "Central Carolina",
-              "mascot": "",
+              "mascot": "Guardians",
               "abbreviation": "CAR",
               "zipcode": "27606",
               "primaryColor": "#A3287A",
@@ -193,7 +193,7 @@
             },
             {
               "name": "Oakwood University",
-              "mascot": "",
+              "mascot": "Owls",
               "abbreviation": "OKU",
               "zipcode": "27708",
               "primaryColor": "#28A36A",
@@ -214,7 +214,7 @@
             },
             {
               "name": "Roanoke Valley",
-              "mascot": "",
+              "mascot": "Revenants",
               "abbreviation": "RKV",
               "zipcode": "27514",
               "primaryColor": "#2841A3",
@@ -240,7 +240,7 @@
           "teams": [
             {
               "name": "Capital Gulf",
-              "mascot": "",
+              "mascot": "Commodores",
               "abbreviation": "CGU",
               "zipcode": "32306",
               "primaryColor": "#28A359",
@@ -261,7 +261,7 @@
             },
             {
               "name": "Biscayne Bay University",
-              "mascot": "",
+              "mascot": "Barracudas",
               "abbreviation": "BBY",
               "zipcode": "33146",
               "primaryColor": "#30A328",
@@ -282,7 +282,7 @@
             },
             {
               "name": "Empire North",
-              "mascot": "",
+              "mascot": "Ironcaps",
               "abbreviation": "EMN",
               "zipcode": "13244",
               "primaryColor": "#287AA3",
@@ -303,7 +303,7 @@
             },
             {
               "name": "Piedmont Reserve",
-              "mascot": "",
+              "mascot": "Pinecats",
               "abbreviation": "PDR",
               "zipcode": "27109",
               "primaryColor": "#A37228",
@@ -329,7 +329,7 @@
           "teams": [
             {
               "name": "Great Lakes Catholic",
-              "mascot": "",
+              "mascot": "Crusaders",
               "abbreviation": "GLC",
               "zipcode": "46556",
               "primaryColor": "#A38A28",
@@ -350,7 +350,7 @@
             },
             {
               "name": "Beacon Hill University",
-              "mascot": "",
+              "mascot": "Mariners",
               "abbreviation": "BHU",
               "zipcode": "2467",
               "primaryColor": "#3928A3",
@@ -371,7 +371,7 @@
             },
             {
               "name": "Three Rivers State",
-              "mascot": "",
+              "mascot": "Rivermen",
               "abbreviation": "TRS",
               "zipcode": "15213",
               "primaryColor": "#28A372",
@@ -392,7 +392,7 @@
             },
             {
               "name": "Coastal Command Academy",
-              "mascot": "",
+              "mascot": "Anchors",
               "abbreviation": "CCA",
               "zipcode": "21401",
               "primaryColor": "#2859A3",
@@ -418,7 +418,7 @@
           "teams": [
             {
               "name": "Tidewater University",
-              "mascot": "",
+              "mascot": "Terns",
               "abbreviation": "TWU",
               "zipcode": "22903",
               "primaryColor": "#A3288A",
@@ -439,7 +439,7 @@
             },
             {
               "name": "Appalachian Highlands",
-              "mascot": "",
+              "mascot": "Mountaineers",
               "abbreviation": "AHG",
               "zipcode": "24060",
               "primaryColor": "#2830A3",
@@ -460,7 +460,7 @@
             },
             {
               "name": "Peachtree Institute",
-              "mascot": "",
+              "mascot": "Hornets",
               "abbreviation": "PCH",
               "zipcode": "30332",
               "primaryColor": "#9228A3",
@@ -481,7 +481,7 @@
             },
             {
               "name": "River City College",
-              "mascot": "",
+              "mascot": "Sturgeons",
               "abbreviation": "RCC",
               "zipcode": "40292",
               "primaryColor": "#41A328",
@@ -515,7 +515,7 @@
           "teams": [
             {
               "name": "Lincoln Prairie University",
-              "mascot": "",
+              "mascot": "Hogs",
               "abbreviation": "LPU",
               "zipcode": "61801",
               "primaryColor": "#8AA328",
@@ -536,7 +536,7 @@
             },
             {
               "name": "Lakefront University",
-              "mascot": "",
+              "mascot": "Steelfish",
               "abbreviation": "LFU",
               "zipcode": "60208",
               "primaryColor": "#A39B28",
@@ -557,7 +557,7 @@
             },
             {
               "name": "Hawkeye Plains",
-              "mascot": "",
+              "mascot": "Bluff Hawks",
               "abbreviation": "HWP",
               "zipcode": "52242",
               "primaryColor": "#A36A28",
@@ -578,7 +578,7 @@
             },
             {
               "name": "North Star State",
-              "mascot": "",
+              "mascot": "Navigators",
               "abbreviation": "NSS",
               "zipcode": "55455",
               "primaryColor": "#A34928",
@@ -599,7 +599,7 @@
             },
             {
               "name": "Platte River College",
-              "mascot": "",
+              "mascot": "Bison",
               "abbreviation": "PRC",
               "zipcode": "68588",
               "primaryColor": "#A328A3",
@@ -620,7 +620,7 @@
             },
             {
               "name": "Wabash Valley",
-              "mascot": "",
+              "mascot": "Fighting Pines",
               "abbreviation": "WBV",
               "zipcode": "47907",
               "primaryColor": "#289BA3",
@@ -641,7 +641,7 @@
             },
             {
               "name": "Badger Heights",
-              "mascot": "",
+              "mascot": "Clan",
               "abbreviation": "BDH",
               "zipcode": "53706",
               "primaryColor": "#A32839",
@@ -667,7 +667,7 @@
           "teams": [
             {
               "name": "Hoosier Valley University",
-              "mascot": "",
+              "mascot": "Harvesters",
               "abbreviation": "HVU",
               "zipcode": "47401",
               "primaryColor": "#8A28A3",
@@ -688,7 +688,7 @@
             },
             {
               "name": "Chesapeake State",
-              "mascot": "",
+              "mascot": "Clippers",
               "abbreviation": "CHP",
               "zipcode": "20740",
               "primaryColor": "#7A28A3",
@@ -709,7 +709,7 @@
             },
             {
               "name": "Great Lakes Tech",
-              "mascot": "",
+              "mascot": "Shock",
               "abbreviation": "GLT",
               "zipcode": "48103",
               "primaryColor": "#28A330",
@@ -730,7 +730,7 @@
             },
             {
               "name": "Capital Central",
-              "mascot": "",
+              "mascot": "Centurions",
               "abbreviation": "CAP",
               "zipcode": "48823",
               "primaryColor": "#28A37A",
@@ -751,7 +751,7 @@
             },
             {
               "name": "Buckeye River University",
-              "mascot": "",
+              "mascot": "Stags",
               "abbreviation": "BRU",
               "zipcode": "43210",
               "primaryColor": "#A32892",
@@ -772,7 +772,7 @@
             },
             {
               "name": "Keystone Union",
-              "mascot": "",
+              "mascot": "Stonebacks",
               "abbreviation": "KYU",
               "zipcode": "16801",
               "primaryColor": "#A33928",
@@ -793,7 +793,7 @@
             },
             {
               "name": "Garden State College",
-              "mascot": "",
+              "mascot": "Terrapins",
               "abbreviation": "GSC",
               "zipcode": "8854",
               "primaryColor": "#A34128",
@@ -827,7 +827,7 @@
           "teams": [
             {
               "name": "Gulf Coast University",
-              "mascot": "",
+              "mascot": "Krakens",
               "abbreviation": "GC",
               "zipcode": "32611",
               "primaryColor": "#4928A3",
@@ -848,7 +848,7 @@
             },
             {
               "name": "Eastern Piedmont",
-              "mascot": "",
+              "mascot": "Blitz",
               "abbreviation": "EP",
               "zipcode": "30601",
               "primaryColor": "#8228A3",
@@ -869,7 +869,7 @@
             },
             {
               "name": "Bluegrass State",
-              "mascot": "",
+              "mascot": "Stallions",
               "abbreviation": "BGS",
               "zipcode": "40502",
               "primaryColor": "#2839A3",
@@ -890,7 +890,7 @@
             },
             {
               "name": "Ozark Valley",
-              "mascot": "",
+              "mascot": "Black Bears",
               "abbreviation": "OZK",
               "zipcode": "65201",
               "primaryColor": "#A32849",
@@ -911,7 +911,7 @@
             },
             {
               "name": "Palmetto Tech",
-              "mascot": "",
+              "mascot": "Sentinels",
               "abbreviation": "PMT",
               "zipcode": "29201",
               "primaryColor": "#2851A3",
@@ -932,7 +932,7 @@
             },
             {
               "name": "Smoky Mountain University",
-              "mascot": "",
+              "mascot": "Grizzlies",
               "abbreviation": "SMU",
               "zipcode": "37901",
               "primaryColor": "#5128A3",
@@ -953,7 +953,7 @@
             },
             {
               "name": "Central Cumberland",
-              "mascot": "",
+              "mascot": "Yellow Badgers",
               "abbreviation": "CCU",
               "zipcode": "37201",
               "primaryColor": "#4128A3",
@@ -979,7 +979,7 @@
           "teams": [
             {
               "name": "Heart of Dixie University",
-              "mascot": "",
+              "mascot": "Palmettos",
               "abbreviation": "HDU",
               "zipcode": "35401",
               "primaryColor": "#2849A3",
@@ -1000,7 +1000,7 @@
             },
             {
               "name": "Ouachita State",
-              "mascot": "",
+              "mascot": "Razorbacks",
               "abbreviation": "OUA",
               "zipcode": "72701",
               "primaryColor": "#28A39B",
@@ -1021,7 +1021,7 @@
             },
             {
               "name": "Tallapoosa College",
-              "mascot": "",
+              "mascot": "Timbercats",
               "abbreviation": "TPC",
               "zipcode": "36830",
               "primaryColor": "#9BA328",
@@ -1042,7 +1042,7 @@
             },
             {
               "name": "Bayou State",
-              "mascot": "",
+              "mascot": "Bullgators",
               "abbreviation": "BSU",
               "zipcode": "70801",
               "primaryColor": "#A32882",
@@ -1063,7 +1063,7 @@
             },
             {
               "name": "Magnolia Southern",
-              "mascot": "",
+              "mascot": "Firehawks",
               "abbreviation": "MSO",
               "zipcode": "38655",
               "primaryColor": "#288AA3",
@@ -1084,7 +1084,7 @@
             },
             {
               "name": "Tombigbee Tech",
-              "mascot": "",
+              "mascot": "Bluegills",
               "abbreviation": "TBT",
               "zipcode": "39759",
               "primaryColor": "#2872A3",
@@ -1105,7 +1105,7 @@
             },
             {
               "name": "Brazos Valley University",
-              "mascot": "",
+              "mascot": "Longhorns",
               "abbreviation": "BVA",
               "zipcode": "77840",
               "primaryColor": "#28A328",
@@ -1138,9 +1138,9 @@
           "name": "High Plains",
           "teams": [
             {
-              "name": "Brazos Ridge",
-              "mascot": "",
-              "abbreviation": "BRG",
+              "name": "Brazos State",
+              "mascot": "Ramblers",
+              "abbreviation": "BS",
               "zipcode": "76706",
               "primaryColor": "#6A28A3",
               "secondaryColor": "#A1E467",
@@ -1160,14 +1160,14 @@
             },
             {
               "name": "North Central Plains University",
-              "mascot": "",
+              "mascot": "Redtails",
               "abbreviation": "NCP",
               "zipcode": "50011",
               "primaryColor": "#A32830",
               "secondaryColor": "#67E4DB",
               "archetype": "balanced",
               "fanbaseType": "stubborn",
-              "rivalAbbreviation": "BRG",
+              "rivalAbbreviation": "BS",
               "attributes": {
                 "prestige": 4,
                 "facilities": 4,
@@ -1181,7 +1181,7 @@
             },
             {
               "name": "Prairie Horizon State",
-              "mascot": "",
+              "mascot": "Dustdevils",
               "abbreviation": "PHS",
               "zipcode": "66045",
               "primaryColor": "#6128A3",
@@ -1202,7 +1202,7 @@
             },
             {
               "name": "Chisholm Trail College",
-              "mascot": "",
+              "mascot": "Dustwalkers",
               "abbreviation": "CTC",
               "zipcode": "67218",
               "primaryColor": "#2861A3",
@@ -1223,7 +1223,7 @@
             },
             {
               "name": "Red River University",
-              "mascot": "",
+              "mascot": "Flood",
               "abbreviation": "RRU",
               "zipcode": "73019",
               "primaryColor": "#28A382",
@@ -1244,7 +1244,7 @@
             },
             {
               "name": "Cimarron State",
-              "mascot": "",
+              "mascot": "Thunder",
               "abbreviation": "CMS",
               "zipcode": "74075",
               "primaryColor": "#7228A3",
@@ -1265,7 +1265,7 @@
             },
             {
               "name": "Trinity Metro",
-              "mascot": "",
+              "mascot": "Rails",
               "abbreviation": "TMU",
               "zipcode": "76129",
               "primaryColor": "#A32841",
@@ -1286,7 +1286,7 @@
             },
             {
               "name": "Republic Tech",
-              "mascot": "",
+              "mascot": "Dominion",
               "abbreviation": "RTC",
               "zipcode": "78712",
               "primaryColor": "#A3289B",
@@ -1307,7 +1307,7 @@
             },
             {
               "name": "Llano Estacado",
-              "mascot": "",
+              "mascot": "Outriders",
               "abbreviation": "LEC",
               "zipcode": "79409",
               "primaryColor": "#39A328",
@@ -1328,7 +1328,7 @@
             },
             {
               "name": "Allegheny Highlands University",
-              "mascot": "",
+              "mascot": "Rams",
               "abbreviation": "AHU",
               "zipcode": "26505",
               "primaryColor": "#A32872",
@@ -1361,7 +1361,7 @@
           "teams": [
             {
               "name": "Suncoast Tech",
-              "mascot": "",
+              "mascot": "Pulse",
               "abbreviation": "SCT",
               "zipcode": "32816",
               "primaryColor": "#A39228",
@@ -1382,7 +1382,7 @@
             },
             {
               "name": "Gulfview State",
-              "mascot": "",
+              "mascot": "Gators",
               "abbreviation": "GVS",
               "zipcode": "33620",
               "primaryColor": "#A37A28",
@@ -1403,7 +1403,7 @@
             },
             {
               "name": "Queen City University",
-              "mascot": "",
+              "mascot": "Royals",
               "abbreviation": "QCU",
               "zipcode": "45221",
               "primaryColor": "#A33028",
@@ -1424,7 +1424,7 @@
             },
             {
               "name": "Bluff City College",
-              "mascot": "",
+              "mascot": "Boars",
               "abbreviation": "BCC",
               "zipcode": "38152",
               "primaryColor": "#A32851",
@@ -1445,7 +1445,7 @@
             },
             {
               "name": "Bayou Metro",
-              "mascot": "",
+              "mascot": "Swamp Vipers",
               "abbreviation": "BYM",
               "zipcode": "77004",
               "primaryColor": "#61A328",
@@ -1466,7 +1466,7 @@
             },
             {
               "name": "Trinity Hill",
-              "mascot": "",
+              "mascot": "Heralds",
               "abbreviation": "TNH",
               "zipcode": "75205",
               "primaryColor": "#59A328",
@@ -1487,7 +1487,7 @@
             },
             {
               "name": "Albemarle University",
-              "mascot": "",
+              "mascot": "Chargers",
               "abbreviation": "ABU",
               "zipcode": "27858",
               "primaryColor": "#82A328",
@@ -1508,7 +1508,7 @@
             },
             {
               "name": "Liberty Bell College",
-              "mascot": "",
+              "mascot": "Minutemen",
               "abbreviation": "LBC",
               "zipcode": "19122",
               "primaryColor": "#A3286A",
@@ -1529,7 +1529,7 @@
             },
             {
               "name": "Crescent City University",
-              "mascot": "",
+              "mascot": "Foghorns",
               "abbreviation": "CCY",
               "zipcode": "70118",
               "primaryColor": "#28A361",
@@ -1550,7 +1550,7 @@
             },
             {
               "name": "Green Country State",
-              "mascot": "",
+              "mascot": "Grit",
               "abbreviation": "GCS",
               "zipcode": "74104",
               "primaryColor": "#28A392",
@@ -1583,7 +1583,7 @@
           "teams": [
             {
               "name": "Cascadia State",
-              "mascot": "",
+              "mascot": "Glaciers",
               "abbreviation": "CSC",
               "zipcode": "97403",
               "primaryColor": "#A38228",
@@ -1604,7 +1604,7 @@
             },
             {
               "name": "Santiam Valley",
-              "mascot": "",
+              "mascot": "Jacks",
               "abbreviation": "STV",
               "zipcode": "97331",
               "primaryColor": "#6AA328",
@@ -1625,7 +1625,7 @@
             },
             {
               "name": "Puget Sound University",
-              "mascot": "",
+              "mascot": "Tritons",
               "abbreviation": "PSU",
               "zipcode": "98195",
               "primaryColor": "#28A351",
@@ -1646,7 +1646,7 @@
             },
             {
               "name": "Palouse Prairie College",
-              "mascot": "",
+              "mascot": "Jackrabbits",
               "abbreviation": "PPC",
               "zipcode": "99163",
               "primaryColor": "#7AA328",
@@ -1667,7 +1667,7 @@
             },
             {
               "name": "Golden Coast University",
-              "mascot": "",
+              "mascot": "Rays",
               "abbreviation": "GCU",
               "zipcode": "94720",
               "primaryColor": "#2882A3",
@@ -1688,7 +1688,7 @@
             },
             {
               "name": "Silicon Valley Tech",
-              "mascot": "",
+              "mascot": "Overclocks",
               "abbreviation": "SVT",
               "zipcode": "94305",
               "primaryColor": "#2828A3",
@@ -1709,7 +1709,7 @@
             },
             {
               "name": "Front Range University",
-              "mascot": "",
+              "mascot": "Summit",
               "abbreviation": "FRU",
               "zipcode": "80305",
               "primaryColor": "#92A328",
@@ -1735,7 +1735,7 @@
           "teams": [
             {
               "name": "Sonoran Desert State",
-              "mascot": "",
+              "mascot": "Scorpions",
               "abbreviation": "SDS",
               "zipcode": "85719",
               "primaryColor": "#A35928",
@@ -1756,7 +1756,7 @@
             },
             {
               "name": "Salt River University",
-              "mascot": "",
+              "mascot": "Mustangs",
               "abbreviation": "SRU",
               "zipcode": "85287",
               "primaryColor": "#286AA3",
@@ -1777,7 +1777,7 @@
             },
             {
               "name": "Zion Canyon College",
-              "mascot": "",
+              "mascot": "Saints",
               "abbreviation": "ZCC",
               "zipcode": "84112",
               "primaryColor": "#3028A3",
@@ -1798,7 +1798,7 @@
             },
             {
               "name": "Angeles Metro",
-              "mascot": "",
+              "mascot": "Phoenix",
               "abbreviation": "AMU",
               "zipcode": "90095",
               "primaryColor": "#28A341",
@@ -1819,7 +1819,7 @@
             },
             {
               "name": "Pacific Heritage",
-              "mascot": "",
+              "mascot": "Crusaders",
               "abbreviation": "PHC",
               "zipcode": "90089",
               "primaryColor": "#A35128",
@@ -1840,7 +1840,7 @@
             },
             {
               "name": "Oceania University",
-              "mascot": "",
+              "mascot": "Moʻo Warriors",
               "abbreviation": "OCU",
               "zipcode": "96822",
               "primaryColor": "#A36128",
@@ -1861,7 +1861,7 @@
             },
             {
               "name": "South Seas Tech",
-              "mascot": "",
+              "mascot": "Lava Rats",
               "abbreviation": "SST",
               "zipcode": "96799",
               "primaryColor": "#28A339",
