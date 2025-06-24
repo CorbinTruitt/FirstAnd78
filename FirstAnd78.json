@@ -461,7 +461,7 @@
             {
               "name": "Peachtree Institute",
               "mascot": "Hornets",
-              "abbreviation": "PCH",
+              "abbreviation": "PCI",
               "zipcode": "30332",
               "primaryColor": "#333333",
               "secondaryColor": "#CC5500",
@@ -488,7 +488,7 @@
               "secondaryColor": "#FF6F61",
               "archetype": "balanced",
               "fanbaseType": "reasonable",
-              "rivalAbbreviation": "PCH",
+              "rivalAbbreviation": "PCI",
               "attributes": {
                 "prestige": 6,
                 "facilities": 6,
